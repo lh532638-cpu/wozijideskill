@@ -1,0 +1,13 @@
+interface:
+  display_name: 薇薇
+  short_description: 固定三特写，按题材推演写真、角色插画与电影游戏画面，保持人物一致
+  default_prompt: 使用 $weiwei，根据我的主题创作头部、腰胸臀、脚腿三张独立特写。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
